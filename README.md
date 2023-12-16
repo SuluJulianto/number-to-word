@@ -53,4 +53,90 @@ Output: "one hundred twenty-three million four hundred fifty-six thousand seven 
 - The script supports numbers up to 21 digits in length.
 - For numbers longer than 21 digits, it requires modification to handle such cases.
 
-  
+## PHP
+### Description
+This PHP script converts a given numerical input into its word representation. It segments the input number into groups of three digits, converts each segment into words, and concatenates them to create the full word representation of the number.
+
+### How to Use
+1. Run the PHP script.
+2. Input a number as prompted.
+3. The script will display the word representation of the number.
+
+### Example
+Input: 123456789
+Output: "one hundred twenty-three million four hundred fifty-six thousand seven hundred eighty-nine"
+
+### Limitations
+- Supports numbers up to 21 digits in length.
+- Requires modification for numbers longer than 21 digits.
+
+## C
+### Description
+This C program converts a given numerical input into its word representation. It segments the input number into groups of three digits, converts each segment into words, and concatenates them to create the complete word representation of the number.
+
+### How to Use
+1. Compile the C code.
+2. Run the compiled program.
+3. Input a number as prompted.
+4. The program will display the word representation of the number.
+
+### Example
+Input: 123456789
+Output: "one hundred twenty-three million four hundred fifty-six thousand seven hundred eighty-nine"
+
+### Limitations
+- Supports numbers up to 21 digits in length.
+- Requires adjustment for numbers longer than 21 digits.
+
+## C++
+### Description
+This C++ program converts a given numerical input into its word representation. It segments the input number into groups of three digits, converts each segment into words, and concatenates them to create the full word representation of the number.
+
+### How to Use
+1. Compile the C++ code.
+2. Run the compiled program.
+3. Input a number as prompted.
+4. The program will display the word representation of the number.
+
+### Example
+Input: 123456789
+Output: "one hundred twenty-three million four hundred fifty-six thousand seven hundred eighty-nine"
+
+### Limitations
+- Supports numbers up to 21 digits in length.
+- Requires modifications for numbers longer than 21 digits.
+
+## Java
+### Description
+This Java program converts a given numerical input into its word representation. It segments the input number into groups of three digits, converts each segment into words, and concatenates them to create the complete word representation of the number.
+
+### How to Use
+1. Compile the Java code.
+2. Run the compiled program.
+3. Input a number as prompted.
+4. The program will display the word representation of the number.
+
+### Example
+Input: 123456789
+Output: "one hundred twenty-three million four hundred fifty-six thousand seven hundred eighty-nine"
+
+### Limitations
+- Supports numbers up to 21 digits in length.
+- Requires adjustments for numbers longer than 21 digits.
+
+## Golang
+### Description
+This Go program converts a given numerical input into its word representation. It segments the input number into groups of three digits, converts each segment into words, and concatenates them to create the full word representation of the number.
+
+### How to Use
+1. Run the Go program.
+2. Input a number as prompted.
+3. The program will display the word representation of the number.
+
+### Example
+Input: 123456789
+Output: "one hundred twenty-three million four hundred fifty-six thousand seven hundred eighty-nine"
+
+### Limitations
+- Supports numbers up to 21 digits in length.
+- Requires modifications for numbers longer than 21 digits.
